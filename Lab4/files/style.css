@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+main {
+    min-height: 80vh;
+    margin: 10px 0px 10px 0px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    font-size: 14px;
+}
+
+form {
+    text-align: center;
+}
+
+form > input {
+    max-width: 300px;
+    width: 35%;
+    margin: 5px 0px 5px 0px;
+    padding: 0;
+    font-size: 16px;
+}
+
+footer {
+    min-height: 100px;
+    padding: 10px 20px 10px 20px;
+    background-color: black;
+    color: white;
+}
+
+a {
+    font-size: 14px;
+}
